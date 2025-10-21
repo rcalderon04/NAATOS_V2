@@ -1,0 +1,18 @@
+Component Name : TPS564242DRLR
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 6
+          VIN            1              Power
+          SW             2              Output
+          GND            3              Power
+          AGND           4              Power
+          EN             5              Input
+          FB             6              Input
+          Hidden Pins : 
+
