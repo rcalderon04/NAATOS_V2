@@ -797,6 +797,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFHGMKRW
 
+[Document44]
+DocumentPath=Integrated_Library - 21.10.25 - 13.14\Integrated_Library - 21.10.25 - 13.14.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document45]
+DocumentPath=Integrated_Library - 21.10.25 - 13.14\Integrated_Library - 21.10.25 - 13.14.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=19461F8F-39BC-44EF-8B50-45FB716F9DA3
 Description=MK8AA_BATTERIES
